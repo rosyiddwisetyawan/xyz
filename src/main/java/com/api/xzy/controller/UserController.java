@@ -4,7 +4,6 @@ import com.api.xzy.model.JwtRequest;
 import com.api.xzy.model.JwtResponse;
 import com.api.xzy.model.TblUser;
 import com.api.xzy.model.UserRequest;
-import com.api.xzy.repository.TblUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

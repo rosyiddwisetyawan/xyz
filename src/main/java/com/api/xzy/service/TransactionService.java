@@ -4,7 +4,6 @@ import com.api.xzy.model.TblTransaction;
 import com.api.xzy.model.TblUser;
 import com.api.xzy.model.TblVirtualaccount;
 import com.api.xzy.model.TransactionRequest;
-import com.api.xzy.model.VaRequest;
 import com.api.xzy.repository.TblTransactionRepository;
 import com.api.xzy.repository.TblVirtualaccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
